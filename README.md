@@ -1,1 +1,0 @@
-# Django-rest-product-api
